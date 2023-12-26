@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blum<br>🌱 I’m currently learning Js
+🔭 I’m currently working on ERIUM V2<br>🌱 I’m currently learning Js
 
 
 ## 🌐 Socials:
